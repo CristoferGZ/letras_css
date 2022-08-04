@@ -1,0 +1,32 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+}
+
+p{
+text-align: right;
+font-family: monospace;
+background-color: rgb(133, 218, 247);
+text-decoration: underline;
+color: calc(background-color); color: rgb(34, 34, 34);
+font-family: cursive;
+}
+h1{
+    font-style: italic;
+    font-style: normal;
+    font-family: sans-serif;
+    background-color: blueviolet;
+    text-align: center;
+    color:rgb(255, 255, 255)
+}
+h2{
+    color:rgb(255, 255, 255);
+    font-family: cursive;
+    background-color:rgb(0, 0, 0);
+}
+
+span{
+    color:rgb(122, 223, 248);
+    font-family: cursive;
+    background-color:rgb(0, 0, 0);
+}
